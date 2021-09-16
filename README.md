@@ -24,7 +24,7 @@ used to develop software within Web Development. Proud team playerfocused on ach
 
 🥇 Specialised in:
 
-🔸 Full Stack MernStack Development
+🔸 MernStack Development
 
 🔸Java Development
 
@@ -32,7 +32,7 @@ used to develop software within Web Development. Proud team playerfocused on ach
 🛠  My Tech Stack
 Programming languages :
 
-Python C++ JavaScript Java C
+C++ JavaScript Java C
 
 Frontend :
 
