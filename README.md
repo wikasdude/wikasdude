@@ -1,54 +1,60 @@
-### Hi there 👋 I`m Vikas Sharma
+### Hi there 👋 I'm Vikas Sharma
 
 <!--
 **wikasdude/wikasdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning MernStack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Eylor Enlsiting Pvt. Ltd As a webdeveloper intern
-- -----------------------------------------------------------------------------
- 😃About me:
-Forward-thinking Software Engineer with background working productivelyin dynamic environments. Fluent in C++ and JS programming languages
-used to develop software within Web Development. Proud team playerfocused on achieving project objectives with speed and accuracy
 
---------------------------------------------------------------------------------
+---
 
-🥇 Specialised in:
+😄 **About Me**  
+Backend Developer with 2.5 years of experience building scalable, distributed systems. I’m passionate about solving complex problems with clean architecture and efficient design. I enjoy diving deep into Golang, system design, and building high-performance APIs.
 
-🔸 MernStack Development
+---
 
-🔸Java Development
+🔧 **What I'm Good At**
 
----------------------------------
-🛠  My Tech Stack
-Programming languages :
+- 🧠 Designing microservices & RESTful APIs  
+- ⚙️ Working with distributed systems & message queues  
+- 🛢️ Optimizing queries and working with large datasets  
+- 🔒 Implementing authentication & authorization using JWT  
 
-C++ JavaScript Java C
+---
 
-Frontend :
+🛠 **My Current Tech Stack**
 
-HTML5 CSS Bootstrap
+**Languages**  
+- Golang (primary)  
+- Java  
+- C++  
+- JavaScript  
 
-Backend :
+**Backend Technologies**  
+- PostgreSQL, Redis, MySQL  
+- RabbitMQ, Kafka (basics)  
+- Docker, Docker Compose  
+- REST APIs, gRPC  
 
-MySQL NodeJS MongoDB
+**DevOps & Tools**  
+- Git, GitHub, Linux  
+- Grafana, Prometheus  
+- Postman, Swagger  
+- Visual Studio Code, IntelliJ  
 
-OS, IDE & Tools :
+---
 
-Visual Studio Git  Xampp Windows
+📚 **Learning & Exploring**
 
----------------------------
+- System Design & Distributed Systems  
+- Kubernetes  
+- Advanced Redis Patterns  
+- Building Celery-like task queue in Golang
 
-Take a look at my repositories and let's get in touch!
+---
 
-Thank You!
+📫 **Get in Touch**
 
+Feel free to check out my projects and connect with me for collaborations or opportunities.
+
+---
+
+Thanks for stopping by! 🚀
