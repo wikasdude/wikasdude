@@ -7,7 +7,7 @@
 ---
 
 😄 **About Me**  
-Backend Developer with 2.5 years of experience building scalable, distributed systems. I’m passionate about solving complex problems with clean architecture and efficient design. I enjoy diving deep into Golang, system design, and building high-performance APIs.
+AI Focused Backend Developer with 3+ years of experience building scalable, distributed systems. I’m passionate about solving complex problems with clean architecture and efficient design. I enjoy diving deep into Golang, system design, and building high-performance APIs.
 
 ---
 
